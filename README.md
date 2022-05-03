@@ -15,7 +15,9 @@ The full text of the GNU General Public License can be found in the file "LICENS
 
 - `obsvmatrix` : Computes the observability matrix of a nonlinear system f(x) with a measurement function h(x) based on symbolic computations of the Lie derivatives of f(x) with respect to h(x).
 
-- `example` : Short example for the Rossler system.
+- `example_rossler` : Short example for the analysis of the observability of the Rossler system, a famous chaotic system.
+
+- `example_pendulum` : Short example for the analysis of the identifiability of the pendulum equation, an example of differential-algebraic equation. The identifiability condition can be tested based on an extended observability condition where parameters are treated as state variables. 
 
 
 # References
