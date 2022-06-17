@@ -4,13 +4,13 @@
 
 % Arthur Montanari, 06/2022
 % If you use this code, please reference:
-% A. N. Montanari, L. Freitas, D. Proverbio, J. Gonçalves, 
-% “Functional observability and subspace reconstruction in nonlinear
-% systems” (2022).
+% A. N. Montanari, L. Freitas, D. Proverbio, J. GonÃ§alves, 
+% â€œFunctional observability and subspace reconstruction in nonlinear
+% systemsâ€ (2022).
 
 % To use this code, first download the public data available at 
 % P. Karoly, M. Cook, L. Kuhlmann, D. Freestone, D. Grayden, E. Nurse, 
-% A. Lai, D. Payne, W. D’Souza, U. Seneviratne, S. Berkovic, T. O’Brien, 
+% A. Lai, D. Payne, W. Dâ€™Souza, U. Seneviratne, S. Berkovic, T. Oâ€™Brien, 
 % B. Litt, D. Himes, K. Leyde, D. Soudry, S. Ahmadizadeh, M. Maturana, 
 % K. Dell, Melbourne NeuroVista Seizure Prediction Trial, University of 
 % Melbourne. Dataset 10.26188/5b6a999fa2316 (2018)
