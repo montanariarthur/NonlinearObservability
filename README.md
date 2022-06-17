@@ -1,5 +1,9 @@
 # Complete and Functional Observability of Nonlinear Systems
-Codes for analysis of the complete and functional observability of nonlinear systems, based on symbolic computation of Lie derivatives. Complete observability establishes a sufficient condition for the reconstruction of the full-state vector `x(t)` of a nonlinear system `f(x)` from a measurement function `h(x)`. Functional observability, a generalization of complete observability, establishes a sufficient condition for the reconstruction of a nonlinear functional `g(x)` of a nonlinear system `f(x)` from a measurement function `h(x)`. See the references below for more details.
+Codes for analysis of the complete and functional observability of nonlinear systems, based on symbolic computation of Lie derivatives. 
+- Complete observability establishes a sufficient condition for the reconstruction of the full-state vector `x(t)` of a nonlinear system `f(x)` from a measurement function `h(x)`. 
+- Functional observability, a generalization of complete observability, establishes a sufficient condition for the reconstruction of a nonlinear functional `g(x)` of a nonlinear system `f(x)` from a measurement function `h(x)`. 
+
+See the references below for more details.
 
 # License
 
