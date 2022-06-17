@@ -33,7 +33,7 @@ f = [X(3);
 h = atan(-X(1)/X(2));                % output is the pendulum angle
 
 % Observability matrix
-Oc = obsvmatrix([X; theta],f,h)
+Oc = nonlinearobsvmatrix([X; theta],f,h)
 if rank(Oc) == N
     disp('System is locally identifiable.')
 else
