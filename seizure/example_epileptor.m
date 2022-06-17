@@ -12,6 +12,7 @@
 % systems” (2022).
 
 clear all; close all; clc;
+addpath('..');
 
 %% Epileptor model simulation
 
