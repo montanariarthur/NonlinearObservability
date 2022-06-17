@@ -26,7 +26,7 @@ f = [- X(2) - X(3);
 h = X(2)
 
 % Observability matrix
-Oc = obsvmatrix(X,f,h)
+Oc = nonlinearobsvmatrix(X,f,h)
 if rank(Oc) == n
     disp('System is locally observable.')
 else
