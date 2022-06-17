@@ -180,9 +180,9 @@ for i = 1:dE
 end
 
 % Embedding space
-trans = 90e3;
+trans = 1;
 figure(3)
-subplot(121); plot3(y(trans:end,1),y(trans:end,2),y(trans:end,3));
+plot3(y(trans:end,1),y(trans:end,2),y(trans:end,3));
 xlabel('y(t)'); ylabel('y(t-\tau)'); zlabel('y(t-2\tau)');
 
 %% Early-warning signal
