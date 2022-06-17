@@ -6,9 +6,9 @@
 
 % Arthur Montanari, 06/2022
 % If you use this code, please reference:
-% A. N. Montanari, L. Freitas, D. Proverbio, J. Gonçalves, 
-% “Functional observability and subspace reconstruction in nonlinear
-% systems” (2022).
+% A. N. Montanari, L. Freitas, D. Proverbio, J. GonÃ§alves, 
+% â€œFunctional observability and subspace reconstruction in nonlinear
+% systemsâ€ (2022).
 
 clear all; close all; clc;
 addpath([pwd,'/Systems/'])
