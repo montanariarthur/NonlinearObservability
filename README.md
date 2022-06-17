@@ -1,5 +1,5 @@
-# NonlinearObservability
-Codes for testing the observability of nonlinear system based on symbolic computation of Lie derivatives.
+# Complete Observability of Nonlinear Systems
+Codes for testing the complete and functional observability of nonlinear systems, based on symbolic computation of Lie derivatives.
 
 
 # License
