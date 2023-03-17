@@ -25,5 +25,5 @@ The full text of the GNU General Public License can be found in the file "LICENS
 
 
 # References
-1.  A. N. Montanari, L. Freitas, D. Proverbio, J. Gonçalves. Functional observability and subspace reconstruction in nonlinear systems. *Physical Review Research*, 4:043195 (2022). DOI: 10.1103/PhysRevResearch.4.043195.
-2.  A. N. Montanari, L. A. Aguirre. Observability of Network Systems: A Critical Review of Recent Results. *Journal of Control, Automation and Electrical Systems*, **31**(6):1348–1374 (2020). DOI: 10.1007/s40313-020-00633-5.
+1.  A. N. Montanari, L. Freitas, D. Proverbio, J. Gonçalves. Functional observability and subspace reconstruction in nonlinear systems. *Physical Review Research*, 4:043195 (2022). https://doi.org/10.1103/PhysRevResearch.4.043195.
+2.  A. N. Montanari, L. A. Aguirre. Observability of Network Systems: A Critical Review of Recent Results. *Journal of Control, Automation and Electrical Systems*, **31**(6):1348–1374 (2020). https://doi.org/10.1007/s40313-020-00633-5.
