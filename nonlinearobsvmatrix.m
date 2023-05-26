@@ -5,9 +5,9 @@ function [Oc, Lieh] = nonlinearobsvmatrix(X,f,h,s)
 
 % Arthur Montanari, 01/2022
 % If you use this code, please reference:
-% A. N. Montanari and L. A. Aguirre, “Observability of Network Systems: 
-% A Critical Review of Recent Results,” Journal of Control, Automation and
-% Electrical Systems, 31(6):1348–1374 (2020).
+%      A. N. Montanari and L. A. Aguirre, “Observability of Network Systems: 
+%      A Critical Review of Recent Results,” Journal of Control, Automation and
+%      Electrical Systems, 31(6):1348–1374 (2020).
 % DOI: 10.1007/s40313-020-00633-5.
 % ResearchGate: https://bit.ly/39n08H8 (link to ResearchGate)
 
